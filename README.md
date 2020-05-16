@@ -1,2 +1,2 @@
 # market
-Online store on PHP
+Online store on HTML, CSS and JavaScript
